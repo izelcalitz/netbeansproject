@@ -1,0 +1,39 @@
+Hi Izelle,
+
+To follow up on today's interview, if you're willing to proceed, I would like for you to do a second practical part.
+
+I've attached a couple of CSV files to this email.
+
+In these files, you'll find information for a product list, the prices for those products and then a file which contain a list of quantities for a random selection of those items.
+
+What I would like you to do, is using the information provided, generate an output file based on the quantity lists.
+You will also need to add 15% VAT to all individual prices.
+This means, the price information provided is the price excluding VAT.
+
+The output file should contain:
+
+A line for each item showing:
+id
+description
+quantity
+unit price excluding VAT
+total price excluding VAT
+total VAT
+total price including VAT
+A summary at the end showing:
+total price excluding VAT
+total VAT
+total price including VAT
+
+This should all be done in java.
+
+Once you are done, I would then like you to upload your finished solution to a GIT repository, and then send me a link to that repository.
+
+
+If you have any questions, feel free to ask me.
+
+I would like a final submission by Tuesday afternoon if possible, please.
+
+
+Regards,
+Jonathan
